@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:latest
 MAINTAINER lixiangyun "linimbus@126.com"
 
 RUN apt-get update 
